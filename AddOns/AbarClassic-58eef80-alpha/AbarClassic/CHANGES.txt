@@ -1,0 +1,78 @@
+commit 58eef80f6ce0c23128defcbd92b1f9292806d202
+Author: Eskild Finnesand <eskildfi@student.matnat.uio.no>
+Date:   Wed Oct 23 22:51:08 2019 +0200
+
+    Reworked oh handeling
+
+commit 1da34a7b88267a3c43dcd79cad0765db2642261f
+Author: Eskild Finnesand <eskildfi@student.matnat.uio.no>
+Date:   Thu Aug 8 17:55:01 2019 +0200
+
+    Interface id
+
+commit fad773d2924689107ab5970119b83b0d88c8b526
+Author: Eskild Finnesand <eskildfi@student.matnat.uio.no>
+Date:   Thu May 30 19:06:09 2019 +0200
+
+    Fixed nullpointer from Heroic Strike
+
+commit d7c3311fb42ccc999d0a95c36428430ff90a1014
+Author: Eskild Finnesand <eskildfi@student.matnat.uio.no>
+Date:   Thu May 30 16:16:15 2019 +0200
+
+    Updated readme
+
+commit 0eaa1d6dd5263d1c56ea323abf6887459e19922a
+Author: Eskild Finnesand <eskildfi@student.matnat.uio.no>
+Date:   Thu May 30 16:14:28 2019 +0200
+
+    Added ranged weapon attacks
+
+commit f6f3b4e2eefb97c545e123a1b9a9ff80f3e50eef
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Thu May 23 22:48:02 2019 +0200
+
+    Fixed lua error and bar reset caused by SPELL_CAST_FAILED
+
+commit 445a29bcc1ee41c6a387047e9d59c5132a21ad9b
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Thu May 23 00:22:03 2019 +0200
+
+    Added saved variables
+
+commit a02a5a07c41c03d08e4eacaf5827013b950f10d9
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Mon May 20 22:28:59 2019 +0200
+
+    Added enemy swing timer (pve and pvp)
+
+commit e32f47a726550f910043c4597d8f6444c4a46179
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Sat May 18 17:59:03 2019 +0200
+
+    Fix for misses, dodge etc
+
+commit 3a30766168c39c3a1b1f66cb56f6dc92a0bf7d30
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Sat May 18 16:20:18 2019 +0200
+
+    Fix for on next attack spells
+
+commit 9128ba49a55ac0d5578e6206691c7a3440bbab4c
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Sat May 18 16:19:23 2019 +0200
+
+    Fix for on next attack spells
+
+commit aa922bcb14d5924ae96c10f0fc82c9e40e4138c4
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Sat May 18 13:53:52 2019 +0200
+
+    Untested fix for melee hit spells
+
+commit 43dc8b39ff37db0d0871a6c3d46d37814e6e985a
+Author: Eskild <eskildeskild@gmail.com>
+Date:   Fri May 17 09:15:45 2019 +0200
+
+    inital commit
+

@@ -1,0 +1,20 @@
+## Interface: 11304
+## Title: Modern TargetFrame v1.4
+## Version: 1.4
+## Author: SDPhantom
+
+## SavedVariables: ModernTargetFrame_Options
+
+## Notes: Re-implements TargetFrame features found in modern WoW
+
+# Libraries
+LibThreatClassic2\lib.xml
+
+# Core Files
+Localization.lua
+ModernTargetFrame.lua
+
+# Feature Modules - The order these load is the order they show in the options panel
+StatusBarText.lua
+Classification.lua
+ThreatIndicators.lua
